@@ -10,7 +10,8 @@ I have been very interested in programming since the end of 2022. I started my l
 
 
 *   🌍  I'm based in Yaroslavl, Russian Federation!
-*   ✉️  You can contact me at [feodor342@mail.ru](mailto:feodor342@mail.ru)### Skills 
+*   ✉️  You can contact me at [feodor342@mail.ru](mailto:feodor342@mail.ru)
+*   ### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
